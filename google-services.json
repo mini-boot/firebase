@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "609955296714",
+    "project_id": "monster-runaway",
+    "storage_bucket": "monster-runaway.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609955296714:android:287312d1592b9bdae0cb33",
+        "android_client_info": {
+          "package_name": "com.superfine.monsterrunaway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609955296714-1tco29eptnrgl92rndp16uri0093kgkc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.superfine.monsterrunaway",
+            "certificate_hash": "07b08dc33022590d2d9aee3db72dd03bb85da1eb"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRzjXhfAegt51r3fPQ1FeaM_FKCncimuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
